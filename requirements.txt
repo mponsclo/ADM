@@ -1,0 +1,21 @@
+# Requirements for ADM Tree-Based Methods Notebook (3_Notebook.ipynb)
+# Data manipulation and analysis
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Machine learning
+scikit-learn>=1.0.0
+
+# Gradient boosting
+xgboost>=1.5.0
+
+# Jupyter notebook environment
+jupyter>=1.0.0
+ipython>=7.0.0
+
+# Optional: for better notebook experience
+notebook>=6.0.0
