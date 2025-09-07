@@ -44,7 +44,6 @@ ADM/
 │   └── 2_Sequence_Prediction_Practice.pdf       # Practice guide
 │
 ├── requirements.txt                              # Python dependencies
-├── CLAUDE.md                                     # Development guide
 └── README.md                                     # This file
 ```
 
